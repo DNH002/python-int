@@ -38,10 +38,13 @@
 # b = (a/1000)
 # print(round(b,0))
 
-### HW_07
+### HW_07_reverse number & last digit
 
-a = int(input("Enter number: "))
-print(a)
+# a = int(input("Enter number: "))
+# b = (a %10)
+# c = str(a)[::-1]
+# print(b)
+# print(c)
 
 ### HW_04
 
@@ -58,5 +61,13 @@ print(a)
 #
 # print(max_op)
 
+### HW_08
 
+# a, b, c = map(int,input("Enter 3 numbers: ").split())
+# print(a, b, c, sep = ",")
+# print(a, b, c, sep = "\n")
 
+### HW_09
+
+# a = str(input("Enter separator: "))
+# print(1, 2, 3, 4, 5, sep =  a )
