@@ -18,6 +18,21 @@
 # print(round(a,2))
 # print(round(a,3))
 
+### HW_04
+
+# a, b, c = map(int,input("Enter 3 numbers: ").split())
+# print(a)
+# print(b)
+# print(c)
+# op_1 = (a * b + c)
+# op_2 = (a + b * c)
+# op_3 = ((a + b) * c)
+# op_4 = (a * b * c)
+#
+# max_op = max(op_1, op_2,op_3, op_4)
+#
+# print(max_op)
+
 ### HW_05
 
 # a, b, c = map(int,input("Enter 3 numbers ").split())
@@ -43,20 +58,6 @@
 a = int(input("Enter number: "))
 print(a)
 
-### HW_04
-
-# a, b, c = map(int,input("Enter 3 numbers: ").split())
-# print(a)
-# print(b)
-# print(c)
-# op_1 = (a * b + c)
-# op_2 = (a + b * c)
-# op_3 = ((a + b) * c)
-# op_4 = (a * b * c)
-#
-# max_op = max(op_1, op_2,op_3, op_4)
-#
-# print(max_op)
 
 
 
